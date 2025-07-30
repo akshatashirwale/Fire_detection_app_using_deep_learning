@@ -9,13 +9,10 @@ A real-time fire detection system powered by YOLOv8 🚒📸, capable of identif
 ✅ Lightweight and fast for edge deployment
 
 🛠️ Technologies Used
-🐍 Python – Core programming language
-
-🧠 YOLOv8 (Ultralytics) – Object detection model
-
-🎥 OpenCV – Video processing and capture
-
-🌐 Streamlit – Web app interface for easy interaction
+* 🐍 Python – Core programming language
+* 🧠 YOLOv8 (Ultralytics) – Object detection model
+* 🎥 OpenCV – Video processing and capture
+* 🌐 Streamlit – Web app interface for easy interaction
 
 📦 Setup Instructions (Quickstart)
 
